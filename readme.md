@@ -3,10 +3,6 @@
 
 I made it Shiba Index page using only HTML and CSS.
 
-![Logo](https://shibatoken.com/images/c1.png)
-
-
-
     
 ## Used Technologies
 
